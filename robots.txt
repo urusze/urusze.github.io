@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://urusze.github.io/lOG/sitemap.lOG.gz
